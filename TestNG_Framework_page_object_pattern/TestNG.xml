@@ -10,7 +10,7 @@
 
 <classes>
 
-<class name="TestClassPackage.TestClass"/>
+<class name="Maven_Project.TestNG_Framework_page_object_pattern.TestClass"/>
 
 </classes>
 
